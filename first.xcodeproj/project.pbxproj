@@ -8,6 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		FE2CACB72A8F580300070516 /* FoodModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE2CACB62A8F580300070516 /* FoodModel.swift */; };
+		FE2CACB92A8F5CDF00070516 /* LazyVHGridExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE2CACB82A8F5CDF00070516 /* LazyVHGridExample.swift */; };
+		FE2CACBB2A8F930E00070516 /* TextFieldExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE2CACBA2A8F930E00070516 /* TextFieldExample.swift */; };
+		FE2CACBD2A8FB52C00070516 /* TabViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE2CACBC2A8FB52C00070516 /* TabViewExample.swift */; };
+		FE2CACC02A8FB8A100070516 /* SearchListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE2CACBF2A8FB8A100070516 /* SearchListView.swift */; };
+		FE2CACC22A8FB8AB00070516 /* Article.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE2CACC12A8FB8AB00070516 /* Article.swift */; };
+		FE2CACC42A8FB8E300070516 /* List.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE2CACC32A8FB8E300070516 /* List.swift */; };
 		FE331B362A7D1E2200D356AC /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE331B352A7D1E2200D356AC /* MapView.swift */; };
 		FE46B1F32A8E2C36009B5C32 /* RestaurantModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE46B1F22A8E2C36009B5C32 /* RestaurantModel.swift */; };
 		FE46B1F52A8E2C5D009B5C32 /* RestaurantViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE46B1F42A8E2C5D009B5C32 /* RestaurantViewExample.swift */; };
@@ -31,6 +37,10 @@
 		FE97591F2A712BDB006F79F1 /* firstUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE97591E2A712BDB006F79F1 /* firstUITests.swift */; };
 		FE9759212A712BDB006F79F1 /* firstUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE9759202A712BDB006F79F1 /* firstUITestsLaunchTests.swift */; };
 		FE9BBB5E2A8E5821004B8804 /* CarouselViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE9BBB5D2A8E5821004B8804 /* CarouselViewExample.swift */; };
+		FEAB66FE2A94A00E00F5D58A /* PostModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEAB66FD2A94A00E00F5D58A /* PostModel.swift */; };
+		FEAB67002A94A12200F5D58A /* PostListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEAB66FF2A94A12200F5D58A /* PostListViewModel.swift */; };
+		FEAB67022A94A33400F5D58A /* PostView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEAB67012A94A33400F5D58A /* PostView.swift */; };
+		FEAB67042A94C95E00F5D58A /* ShareLinkExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEAB67032A94C95E00F5D58A /* ShareLinkExample.swift */; };
 		FEB2AD262A810DA80005F130 /* VerticalDivider.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEB2AD252A810DA80005F130 /* VerticalDivider.swift */; };
 		FEB4674D2A86551A0058D577 /* Text.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEB4674C2A86551A0058D577 /* Text.swift */; };
 		FEB4674F2A8655410058D577 /* Nunito-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FEB4674E2A8655410058D577 /* Nunito-Regular.ttf */; };
@@ -73,6 +83,12 @@
 
 /* Begin PBXFileReference section */
 		FE2CACB62A8F580300070516 /* FoodModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodModel.swift; sourceTree = "<group>"; };
+		FE2CACB82A8F5CDF00070516 /* LazyVHGridExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVHGridExample.swift; sourceTree = "<group>"; };
+		FE2CACBA2A8F930E00070516 /* TextFieldExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldExample.swift; sourceTree = "<group>"; };
+		FE2CACBC2A8FB52C00070516 /* TabViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewExample.swift; sourceTree = "<group>"; };
+		FE2CACBF2A8FB8A100070516 /* SearchListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchListView.swift; sourceTree = "<group>"; };
+		FE2CACC12A8FB8AB00070516 /* Article.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Article.swift; sourceTree = "<group>"; };
+		FE2CACC32A8FB8E300070516 /* List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = List.swift; sourceTree = "<group>"; };
 		FE331B352A7D1E2200D356AC /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		FE46B1F22A8E2C36009B5C32 /* RestaurantModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantModel.swift; sourceTree = "<group>"; };
 		FE46B1F42A8E2C5D009B5C32 /* RestaurantViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantViewExample.swift; sourceTree = "<group>"; };
@@ -100,6 +116,10 @@
 		FE97591E2A712BDB006F79F1 /* firstUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = firstUITests.swift; sourceTree = "<group>"; };
 		FE9759202A712BDB006F79F1 /* firstUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = firstUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		FE9BBB5D2A8E5821004B8804 /* CarouselViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarouselViewExample.swift; sourceTree = "<group>"; };
+		FEAB66FD2A94A00E00F5D58A /* PostModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostModel.swift; sourceTree = "<group>"; };
+		FEAB66FF2A94A12200F5D58A /* PostListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostListViewModel.swift; sourceTree = "<group>"; };
+		FEAB67012A94A33400F5D58A /* PostView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostView.swift; sourceTree = "<group>"; };
+		FEAB67032A94C95E00F5D58A /* ShareLinkExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareLinkExample.swift; sourceTree = "<group>"; };
 		FEB2AD252A810DA80005F130 /* VerticalDivider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerticalDivider.swift; sourceTree = "<group>"; };
 		FEB4674C2A86551A0058D577 /* Text.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Text.swift; sourceTree = "<group>"; };
 		FEB4674E2A8655410058D577 /* Nunito-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Nunito-Regular.ttf"; sourceTree = "<group>"; };
@@ -148,6 +168,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		FE2CACBE2A8FB88500070516 /* SearchableListView */ = {
+			isa = PBXGroup;
+			children = (
+				FE2CACBF2A8FB8A100070516 /* SearchListView.swift */,
+				FE2CACC12A8FB8AB00070516 /* Article.swift */,
+				FE2CACC32A8FB8E300070516 /* List.swift */,
+			);
+			path = SearchableListView;
+			sourceTree = "<group>";
+		};
 		FE46B1F12A8E2C1F009B5C32 /* JsonExample */ = {
 			isa = PBXGroup;
 			children = (
@@ -177,6 +207,7 @@
 				FEBF52712A8BD1B5003CE4A1 /* BreweriesView.swift */,
 				FEBF52732A8BD217003CE4A1 /* BremeryView.swift */,
 				FEBF52752A8BD26B003CE4A1 /* BreweriesViewModel.swift */,
+				FE2CACB82A8F5CDF00070516 /* LazyVHGridExample.swift */,
 			);
 			path = Mvvm;
 			sourceTree = "<group>";
@@ -204,6 +235,7 @@
 		FE9759012A712BD8006F79F1 /* first */ = {
 			isa = PBXGroup;
 			children = (
+				FEAB66FC2A949FEE00F5D58A /* Mvvm2 */,
 				FE46B1F12A8E2C1F009B5C32 /* JsonExample */,
 				FE4B087C2A8CF8BF00728D5B /* Mvvm */,
 				FE4B08772A8CF59000728D5B /* SwipeableCard */,
@@ -238,6 +270,10 @@
 				FE4B086F2A8CB19B00728D5B /* SwipeActionsExample.swift */,
 				FE4B08712A8CE15600728D5B /* GestureExample.swift */,
 				FE2CACB62A8F580300070516 /* FoodModel.swift */,
+				FE2CACBA2A8F930E00070516 /* TextFieldExample.swift */,
+				FE2CACBC2A8FB52C00070516 /* TabViewExample.swift */,
+				FE2CACBE2A8FB88500070516 /* SearchableListView */,
+				FEAB67032A94C95E00F5D58A /* ShareLinkExample.swift */,
 			);
 			path = first;
 			sourceTree = "<group>";
@@ -265,6 +301,16 @@
 				FE9759202A712BDB006F79F1 /* firstUITestsLaunchTests.swift */,
 			);
 			path = firstUITests;
+			sourceTree = "<group>";
+		};
+		FEAB66FC2A949FEE00F5D58A /* Mvvm2 */ = {
+			isa = PBXGroup;
+			children = (
+				FEAB66FD2A94A00E00F5D58A /* PostModel.swift */,
+				FEAB66FF2A94A12200F5D58A /* PostListViewModel.swift */,
+				FEAB67012A94A33400F5D58A /* PostView.swift */,
+			);
+			path = Mvvm2;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -398,18 +444,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FE2CACC22A8FB8AB00070516 /* Article.swift in Sources */,
 				FE4B08722A8CE15600728D5B /* GestureExample.swift in Sources */,
 				FE9BBB5E2A8E5821004B8804 /* CarouselViewExample.swift in Sources */,
 				FEB467512A8657A40058D577 /* SwiftUIButton.swift in Sources */,
 				FE4B08702A8CB19B00728D5B /* SwipeActionsExample.swift in Sources */,
+				FEAB66FE2A94A00E00F5D58A /* PostModel.swift in Sources */,
 				FEBF52722A8BD1B5003CE4A1 /* BreweriesView.swift in Sources */,
 				FEBF52612A8BA88A003CE4A1 /* ActionSheet.swift in Sources */,
 				FE73AA122A837DAE003E8CFA /* StarRating.swift in Sources */,
 				FE6A68FF2A8119940080489B /* SettingsView.swift in Sources */,
+				FEAB67022A94A33400F5D58A /* PostView.swift in Sources */,
 				FEB2AD262A810DA80005F130 /* VerticalDivider.swift in Sources */,
 				FE9759052A712BD8006F79F1 /* ContentView.swift in Sources */,
 				FE4B08742A8CEDC200728D5B /* BottomSheetExample.swift in Sources */,
 				FEBF52702A8BD173003CE4A1 /* Brewery.swift in Sources */,
+				FE2CACC02A8FB8A100070516 /* SearchListView.swift in Sources */,
 				FE46B1F52A8E2C5D009B5C32 /* RestaurantViewExample.swift in Sources */,
 				FEBF52692A8BACE8003CE4A1 /* FormExample.swift in Sources */,
 				FEBF52762A8BD26B003CE4A1 /* BreweriesViewModel.swift in Sources */,
@@ -418,22 +468,28 @@
 				FE46B1F92A8E367A009B5C32 /* HttpExample.swift in Sources */,
 				FE331B362A7D1E2200D356AC /* MapView.swift in Sources */,
 				FE46B1F32A8E2C36009B5C32 /* RestaurantModel.swift in Sources */,
+				FEAB67042A94C95E00F5D58A /* ShareLinkExample.swift in Sources */,
 				FE4B086E2A8CAECA00728D5B /* ContextMenu.swift in Sources */,
 				FECB159A2A8272CA00712846 /* Http.swift in Sources */,
 				FECB15962A8257F500712846 /* EventTile.swift in Sources */,
 				FEBF52652A8BAB61003CE4A1 /* PopoverExample.swift in Sources */,
+				FE2CACBB2A8F930E00070516 /* TextFieldExample.swift in Sources */,
 				FE4B08762A8CF57C00728D5B /* UserModel.swift in Sources */,
 				FE46B1F72A8E31D7009B5C32 /* JsonDecoderExample.swift in Sources */,
 				FECB15922A82574700712846 /* OpacityTrain.swift in Sources */,
 				FE9759032A712BD8006F79F1 /* firstApp.swift in Sources */,
 				FEB4674D2A86551A0058D577 /* Text.swift in Sources */,
 				FECB15902A822D2A00712846 /* CaptionedPhoto.swift in Sources */,
+				FE2CACBD2A8FB52C00070516 /* TabViewExample.swift in Sources */,
 				FEB467532A86684B0058D577 /* DynamicList.swift in Sources */,
 				FEBF52632A8BAB0F003CE4A1 /* AlertExample.swift in Sources */,
 				FEBF52742A8BD217003CE4A1 /* BremeryView.swift in Sources */,
 				FECB15942A82578100712846 /* IfElseTrain.swift in Sources */,
+				FE2CACB92A8F5CDF00070516 /* LazyVHGridExample.swift in Sources */,
+				FEAB67002A94A12200F5D58A /* PostListViewModel.swift in Sources */,
 				FE7E9F8A2A7D13CF006DC8B9 /* CircleImage.swift in Sources */,
 				FEBF526B2A8BCD86003CE4A1 /* EnvironmentObjectExample.swift in Sources */,
+				FE2CACC42A8FB8E300070516 /* List.swift in Sources */,
 				FE2CACB72A8F580300070516 /* FoodModel.swift in Sources */,
 				FE4B087B2A8CF5F900728D5B /* CardView.swift in Sources */,
 				FE4B08792A8CF5D400728D5B /* SwipeCardExample.swift in Sources */,
